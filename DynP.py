@@ -47,5 +47,4 @@ print("The cost of most efficient tour =", ans)
 print(final_path)
 
 # This code is a modified version of program of Serjeel Ranja
-# www.geeksforgeeks.org/travelling-salesman-problem-using-
-dynamic-programming/amp/
+# www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/amp/
