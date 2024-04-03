@@ -46,5 +46,5 @@ for i in range(1, n + 1):
 print("The cost of most efficient tour =", ans)
 print(final_path)
 
-# This code is a modified version of program of Serjeel Ranja
+# This code is a modified version of program of Serjeel Ranjan
 # www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/amp/
